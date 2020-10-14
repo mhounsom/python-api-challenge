@@ -8,3 +8,5 @@ The second part we created a heatmap from Jupyter-Gmaps where we used cities hum
 
 
 
+
+
